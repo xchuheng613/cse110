@@ -10,6 +10,8 @@ In my spare time, I really enjoy:
 - Custom mechanical keyboards
 - Going to the gym
 
+![Me](DSC02305.JPG)
+
 ## Code Sample
 ```python
 def greet(name):
@@ -35,12 +37,6 @@ def greet(name):
 - **External Link**: [Visit GitHub](https://github.com)
 - **Relative Link**: [Check out my README](./README.md)
 - **Section Link**: [Jump to My Hobbies](#my-hobbies)
-
----
-
-## Picture
-
-![Sample Image](./images/sample-image.jpg)
 
 ---
 
