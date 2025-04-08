@@ -35,7 +35,7 @@ def greet(name):
 ## External and Relative Links
 
 - **External Link**: [Visit GitHub](https://github.com)
-- **Relative Link**: [Check out my README](./README.md.html)
+- **Relative Link**: [Check out my README](/add-name-and-gitignore/README.html)
 - **Section Link**: [Jump to My Hobbies](#my-hobbies)
 
 ---
